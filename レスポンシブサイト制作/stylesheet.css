@@ -1,0 +1,154 @@
+.main{
+    margin-left:10%;
+    margin-right: 10%;
+    
+}
+
+.yoko{
+    display: flex;
+    
+}
+
+.accordion-button{
+    background: #FFC7AF;
+    height: 40px;
+    padding-left: 5px;
+}
+
+.iromoji{
+    font-size: 20px;
+    line-height:40px; /* 行の高さを調整 */
+
+}
+
+.moji li{
+    font-size: 10px;
+}
+
+.back{
+    background: #FFEFD5;
+
+}
+
+
+.bg-hujimura-gray{
+    background:  lightgray;
+    color: black;
+}
+
+.contents-item img{
+    height: 250px;
+}
+
+.kuro{
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.migi{
+    margin: 0 0 0 auto; 
+}
+
+.mannnaka{
+    text-align: center;
+    font-size: 30px;
+}
+
+.maru img{
+    border-radius: 50%;
+    width:  150px;       
+    height: 150px;
+}
+
+.maru{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer{
+    background: darkgray;
+    height:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.tate{
+    width: 2000px; 
+    text-align: right; 
+    
+}
+
+.item{
+    text-align: left; 
+}
+
+.aida{
+    display: block; 
+    padding-right:40px;
+
+}
+
+.margin{
+    margin: 20px;
+    
+}
+
+.size{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.margin h1{
+    font-size: 18px;
+}
+
+.margin h2{
+    font-size: 10px;
+}
+
+.kuuhaku{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.kuuhaku1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.box{
+    border: none;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.korona{
+   font-size: 27px;
+}
+
+.yohakunakusu{
+    margin:0;
+    padding:0;
+}
+
+.waku{
+    border:none
+}
+
+
+/* min-width のテストです */
+
+
+  @media (max-width: 200px) {
+    
+  }
+  
+  
+
+
+    
